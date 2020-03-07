@@ -81,7 +81,8 @@ function  Movie(props){
         </div>
         : null }
         {!Actors && !Loading ? <h1>No movie found</h1> : null }
-        {Loading ? <Spinner /> : null}
+        {/*Loading ? <Spinner /> : null */}
+
       </div>
     )
   
