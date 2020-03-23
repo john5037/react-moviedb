@@ -5,7 +5,7 @@ import MovieInfo from '../elements/MovieInfo/MovieInfo';
 import MovieInfoBar from '../elements/MovieInfoBar/MovieInfoBar';
 import FourColGrid from '../elements/FourColGrid/FourColGrid.js';
 import Actor from '../elements/Actor/Actor';
-import Spinner from '../elements/Spinner/Spinner';
+//import Spinner from '../elements/Spinner/Spinner';
 import './Movie.css';
 
 function  Movie(props){
